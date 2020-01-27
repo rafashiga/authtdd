@@ -1,0 +1,9 @@
+# yarn add dotenv
+# npm install -g win-node-env
+
+DB_HOST=
+DB_USER=
+DB_PASS=
+DB_NAME=
+
+APP_SECRET=
